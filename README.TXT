@@ -28,9 +28,9 @@ How to start this project: Create one or more TicketMachine objects.
 14. Student representative, Server host, Person tutor, Game game.
 15. Yes it works! The order of the following are changed but there isn't any error while changing them, but there is an error if you put the same class twice.
 16. Yes it is necessary to have a semilicolon at the end since it is a rule and then it wont.
-17. 
-18. 
-19.
-20. 
+17. int Status;
+18. There's no class it's public.
+19. Just 1 Public.
+20. No they don't need a persistent storage, 
 21. 
 22. 
