@@ -12,3 +12,10 @@ It is discussed in chapter 2.
 
 Purpose of project: To illustrate the basics of fields, constructors, and methods.
 How to start this project: Create one or more TicketMachine objects.
+
+1. Once pressed the getPrice method, I receive a value of 67. Once I print a ticket, my balance goes back to 0. Which means I need to insertMoney method to bring it back to the original amount.
+2. The balance turns to 0.
+3. If you put too much money in, and you print a ticket the balance will be at 0, if you do not add enough money it stays in the machine and it won't print a ticket.
+5. When you print another ticket on the 2nd machine the price of the ticket is different, in my case my first ticket machine costed 67 cents but my second machine costed 76 cents.
+6. public class TicketMachine{insert}
+7. If you put class public 
