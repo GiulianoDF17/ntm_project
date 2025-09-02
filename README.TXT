@@ -27,4 +27,10 @@ How to start this project: Create one or more TicketMachine objects.
 13. alive, tutor, game.
 14. Student representative, Server host, Person tutor, Game game.
 15. Yes it works! The order of the following are changed but there isn't any error while changing them, but there is an error if you put the same class twice.
-16. Yes it is necessary to have a semilicolon at the end since it is a rule and then it wont
+16. Yes it is necessary to have a semilicolon at the end since it is a rule and then it wont.
+17. 
+18. 
+19.
+20. 
+21. 
+22. 
