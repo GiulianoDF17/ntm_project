@@ -26,4 +26,5 @@ How to start this project: Create one or more TicketMachine objects.
 12. private in count; is determining the initial value of what you're inputing to the code, private Student representative; it is a member of a student class, private Server host; The client of where the code is being written on. 
 13. alive, tutor, game.
 14. Student representative, Server host, Person tutor, Game game.
-15. 
+15. Yes it works! The order of the following are changed but there isn't any error while changing them, but there is an error if you put the same class twice.
+16. Yes it is necessary to have a semilicolon at the end since it is a rule and then it wont
