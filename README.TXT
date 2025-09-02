@@ -18,4 +18,6 @@ How to start this project: Create one or more TicketMachine objects.
 3. If you put too much money in, and you print a ticket the balance will be at 0, if you do not add enough money it stays in the machine and it won't print a ticket.
 5. When you print another ticket on the 2nd machine the price of the ticket is different, in my case my first ticket machine costed 67 cents but my second machine costed 76 cents.
 6. public class TicketMachine{insert}
-7. If you put class public 
+7. If you put class public there is 8 errors that appear. Error(s) found in class was shown once I try to compile the TicketMachine.
+8. If you take out public it will work the same as if public was there written on that line.
+9. Taking out the word class on the code line it comes with errors, so the word class needs to be there to make the code work.
