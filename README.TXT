@@ -21,3 +21,9 @@ How to start this project: Create one or more TicketMachine objects.
 7. If you put class public there is 8 errors that appear. Error(s) found in class was shown once I try to compile the TicketMachine.
 8. If you take out public it will work the same as if public was there written on that line.
 9. Taking out the word class on the code line it comes with errors, so the word class needs to be there to make the code work.
+10. The constructor is called (Public TicketMachine)
+11. They are capitilized because they need to copy the name of the object that they are controlling so that it can read it properly.
+12. private in count; is determining the initial value of what you're inputing to the code, private Student representative; it is a member of a student class, private Server host; The client of where the code is being written on. 
+13. alive, tutor, game.
+14. Student representative, Server host, Person tutor, Game game.
+15. 
