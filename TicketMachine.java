@@ -14,7 +14,7 @@ public class TicketMachine
     // The price of a ticket from this machine.
     private int price;
     // The amount of money entered by a customer so far.
-    private int balance;
+    private int amount;
     // The total amount of money collected by this machine.
     private int total;
 
@@ -26,7 +26,7 @@ public class TicketMachine
     public TicketMachine(int cost)
     {
         price = cost;
-        balance = 0;
+        amount = 0;
         total = 0;
     }
 
@@ -42,9 +42,9 @@ public class TicketMachine
      * Return the amount of money already inserted for the
      * next ticket.
      */
-    public int getBalance()
+    public int getAmount()
     {
-        return balance;
+        return amount;
     }
 
     /**
@@ -52,7 +52,7 @@ public class TicketMachine
      */
     public void insertMoney(int amount)
     {
-        balance = balance + amount;
+        amount = amount + amount;
     }
 
     /**
@@ -71,8 +71,8 @@ public class TicketMachine
         System.out.println();
 
         // Update the total collected with the balance.
-        total = total + balance;
+        total = total + amount;
         // Clear the balance.
-        balance = 0;
+        amount = 0;
     }
 }

@@ -32,5 +32,9 @@ How to start this project: Create one or more TicketMachine objects.
 18. There's no class it's public.
 19. Just 1 Public.
 20. No they don't need a persistent storage, 
-21. 
-22. 
+21. public Pet(String petsName)
+    {
+      this.name = petsName;
+    }
+23. Their header is an integer (int), and their bodies are voids.
+24. 
