@@ -18,6 +18,12 @@ public class TicketMachine
     // The total amount of money collected by this machine.
     private int total;
 
+    public void prompt()
+    {
+        System.out.println("Please insert the correct amount of money.");
+    }
+    
+    
     /**
      * Create a machine that issues tickets of the given price.
      * Note that the price must be greater than zero, and there
@@ -80,4 +86,5 @@ public class TicketMachine
         // Clear the balance.
         amount = 0;
     }
+    
 }

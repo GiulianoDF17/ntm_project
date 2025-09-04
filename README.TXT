@@ -39,4 +39,23 @@ How to start this project: Create one or more TicketMachine objects.
 23. Their header is an integer (int), and their bodies are voids.
 24. How much is in the Ticket Machine?
 25. Change every instance of balance to amount to get no errors.
-27.
+27. Error trying to compile since there are error(s) in the code.
+28. One is a void and the other is an integer.
+29. Not return statements since it's an system output.
+31. public void increaseScore(int points)
+    {
+       this.score += points;
+    }
+32. It's a mutator since it modifies the state of a student object by changing its vaule (credits).
+33. public void discount(int amount)
+    {
+       price = price - amount;
+    }
+34. public void setAge(int currentAge)
+    {
+       this.age = currentAge;
+    }
+35. private 
+36. 
+37. My cat has green eyes.
+38. 
