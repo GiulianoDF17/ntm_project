@@ -65,6 +65,11 @@ public class TicketMachine
     {
         this.amount = this.amount + amount;
     }
+    
+    public void showPrice()
+    {
+        System.out.println("The price of a ticket is " + price + " cents.");
+    }
 
     /**
      * Print a ticket.

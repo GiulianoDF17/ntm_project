@@ -60,3 +60,4 @@ How to start this project: Create one or more TicketMachine objects.
 37. My cat has green eyes.
 39. The actual price of the ticket won't show meaning that the word "price" will show since you won't be requesting for the actual price.
 40. The # price and cents word will show since they are in quotation marks.
+41. 
