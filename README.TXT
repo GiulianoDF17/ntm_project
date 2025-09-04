@@ -37,4 +37,6 @@ How to start this project: Create one or more TicketMachine objects.
       this.name = petsName;
     }
 23. Their header is an integer (int), and their bodies are voids.
-24. 
+24. How much is in the Ticket Machine?
+25. Change every instance of balance to amount to get no errors.
+27.

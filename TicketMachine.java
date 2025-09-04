@@ -37,6 +37,11 @@ public class TicketMachine
     {
         return price;
     }
+    
+    public int getTotal()
+    {
+        return total;
+    }
 
     /**
      * Return the amount of money already inserted for the
@@ -52,7 +57,7 @@ public class TicketMachine
      */
     public void insertMoney(int amount)
     {
-        amount = amount + amount;
+        this.amount = this.amount + amount;
     }
 
     /**
